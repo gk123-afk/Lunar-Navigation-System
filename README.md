@@ -57,4 +57,4 @@ docker compose up
 - **Backend:** `sajid1108/lunar-backend`
 - **Frontend:** `sajid1108/lunar-frontend`
 
-  FINALY YEAR PROJECT FOR B TECH
+  FINAL YEAR PROJECT FOR B TECH
